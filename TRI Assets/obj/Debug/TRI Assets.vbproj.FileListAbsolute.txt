@@ -1,0 +1,14 @@
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\bin\Debug\Assets.mdf
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\bin\Debug\Assets_log.ldf
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\bin\Debug\TRI Assets.exe.config
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\bin\Debug\TRI Assets.exe
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\bin\Debug\TRI Assets.pdb
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\bin\Debug\TRI Assets.xml
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI Assets.vbprojAssemblyReference.cache
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI_Assets.Form1.resources
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI_Assets.Resources.resources
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI Assets.vbproj.GenerateResource.cache
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI Assets.vbproj.CoreCompileInputs.cache
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI Assets.exe
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI Assets.xml
+C:\Users\BryanMcKinnie\source\repos\TRI Assets\TRI Assets\obj\Debug\TRI Assets.pdb
